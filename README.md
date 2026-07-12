@@ -213,3 +213,12 @@ Execute a suíte com:
 ```bash
 go test ./...
 ```
+
+## Licença
+
+O código-fonte deste projeto é distribuído sob a [licença MIT](LICENSE).
+
+Salvo indicação expressa em contrário, os posts em `posts/` e os textos,
+biografia, contatos e demais conteúdos autorais personalizados em `content.go`
+não fazem parte dessa licença. Esses materiais permanecem sob copyright de seus
+respectivos autores.
