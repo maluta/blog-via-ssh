@@ -8,6 +8,9 @@ landing page web simples para apresentar o blog e mostrar como acessá-lo.
 Ao conectar, o visitante não recebe um shell no servidor: o SSH inicia somente
 a aplicação do blog.
 
+<img width="670" height="506" alt="image" src="https://github.com/user-attachments/assets/84aa0937-5211-41d2-88e7-efd206f12ad6" />
+
+
 ## Stack
 
 - [Go](https://go.dev/) — servidor e aplicação.
