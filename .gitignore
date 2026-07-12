@@ -1,0 +1,8 @@
+# SSH host key — generated on first run, must never be committed
+.ssh/
+posts/
+backup/
+deploy/
+README.md.orig
+# Compiled binary
+/maluta-ssh
